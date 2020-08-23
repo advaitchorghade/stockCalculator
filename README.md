@@ -5,4 +5,4 @@ This is done by inputting your buy price and quantity plus stop, target 1,2,3 co
 
 *still in development*
 
-![alt text](https://github.com/[advatchorghade]/[stockCalculator]/blob/[master]/[images]/image1.png?raw=true)
+![alt text](https://github.com/[advatchorghade]/[stockCalculator]/blob/[master]/images/image1.png?raw=true)
