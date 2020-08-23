@@ -12,3 +12,4 @@ This is done by inputting your buy price and quantity plus stop, target 1,2,3 co
 ![Alt text](/advaitchorghade/stockCalculator-/tree/master/images/image1.PNG?raw=true "Optional Title")
 
 
+![GitHub Logo](/images/image1.png)
