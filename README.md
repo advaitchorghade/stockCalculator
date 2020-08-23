@@ -7,5 +7,5 @@ This is done by inputting your buy price and quantity plus stop, target 1,2,3 co
 
 ![alt text](https://github.com/[advatchorghade]/[stockCalculator]/blob/[master]/images/image1.png?raw=true)
 
-![Alt text](http://advaitchorghade/stockCalculator-/tree/master/images/image1.png "Optional title")
+![Alt text](http://github.com/advaitchorghade/stockCalculator-/tree/master/images/image1.PNG "Optional title")
 
