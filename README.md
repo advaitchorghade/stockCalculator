@@ -5,5 +5,10 @@ This is done by inputting your buy price and quantity plus stop, target 1,2,3 co
 ## Initial screen
 This is where you enter your stock details.
 ![title](images/image1.PNG)
+![title](images/image2.PNG)
+![title](images/image3.PNG)
+![title](images/image4.PNG)
+![title](images/image5.PNG)
+
 
 
