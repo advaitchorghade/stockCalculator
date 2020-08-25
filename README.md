@@ -14,5 +14,4 @@ This is done by inputting your buy price and quantity plus stop, target 1,2,3 co
 ### Of course, if you wish to just do one target price sell, it calculates selling 100% of the stock at that price 
 ![title](images/image5.PNG)
 
-
-
+*NOTE: this program was initially created for a family member in the US, hence the dollar sign, but this can very easily be changed for whichever coutry you trade in *
