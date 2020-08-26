@@ -5,7 +5,7 @@ from tkinter import *
 root = Tk(className=' Amzer Capital Stock Trader Version 3')
 root.geometry("1800x940")
 root.resizable(0, 0)
-
+##### The below commented code can be used in the future to save and open past stock calculations
 '''
 my_menu = Menu(root)
 root.config(menu=my_menu)
