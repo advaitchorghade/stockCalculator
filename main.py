@@ -21,7 +21,7 @@ file_menu.add_command(label = 'New',command = new_command)
 file_menu.add_separator()
 file_menu.add_command(label='Open',command = open_command)
 '''
-
+## Make the entry boxes specifying location and text info
 buy_price_text = Entry(root,width = 10, font = 'Times 50')
 buy_price_text.place(x=400,y=200)
 buy_price_text.insert(0,'')
